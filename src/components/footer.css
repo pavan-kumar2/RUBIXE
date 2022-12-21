@@ -1,0 +1,18 @@
+.footer {
+    background-color: #dfdcdc;
+}
+
+.footer>div {
+    margin: 0 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.footer>div>div {
+    padding: 0 40px 0 0;
+}
+
+.ft p{
+    font-size: 14px;
+}

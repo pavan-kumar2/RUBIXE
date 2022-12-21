@@ -1,0 +1,9 @@
+.copyright{
+    background-color: #000;
+}
+.copyright>div{
+    margin: 0 200px;
+    color: #fff;
+    font-size: 14px;
+    padding: 20px 0;
+}
