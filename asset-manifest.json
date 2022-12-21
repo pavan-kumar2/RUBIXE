@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RUBIXE/static/css/main.b9e63610.css",
+    "main.js": "/RUBIXE/static/js/main.4cb3e30d.js",
+    "static/js/787.9f3f2014.chunk.js": "/RUBIXE/static/js/787.9f3f2014.chunk.js",
+    "index.html": "/RUBIXE/index.html",
+    "main.b9e63610.css.map": "/RUBIXE/static/css/main.b9e63610.css.map",
+    "main.4cb3e30d.js.map": "/RUBIXE/static/js/main.4cb3e30d.js.map",
+    "787.9f3f2014.chunk.js.map": "/RUBIXE/static/js/787.9f3f2014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e63610.css",
+    "static/js/main.4cb3e30d.js"
+  ]
+}
